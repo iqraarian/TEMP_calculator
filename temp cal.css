@@ -1,0 +1,60 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #f0f0f0;
+    margin: 0;
+    padding: 0;
+    background-image: url(./headphones-minimalism-pink-pastel-wallpaper-preview.jpg);
+
+
+}
+
+h1 {
+    color: darkviolet;
+    text-align: center;
+    place-content: center;
+    
+
+    
+}
+
+form {
+    margin-top: 20px;
+}
+
+label {
+    font-weight: bold;
+    color: darkviolet;
+    
+    
+}
+
+input[type="number"] {
+    padding: 5px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+   
+}
+
+input[type="submit"] {
+    padding: 5px 10px;
+    background-color: darkviolet;
+     color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+   
+}
+
+input[type="submit"]:hover {
+    background-color: darkviolet;
+    
+}
+
+#result {
+    font-weight: bold;
+    margin-top: 20px;
+    color: darkviolet;
+    
+}
+
